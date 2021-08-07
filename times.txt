@@ -1,0 +1,20 @@
+[BallsScene]
+Total: 18s
+
+[PascalTriangle]
+Total: 35s
+"Somente Um modo": 10s
+"um modo para cada": 15s
+"para cada um dos outros pinos": 18s
+"esquerdo e direito": 25s
+
+[BinomAnimation]
+Total: 1min10s
+"a mesma coisa": 14s
+"10": 27s
+"9": 29s
+"8": 32s
+
+[CalcPascal]
+Total: 1min30s
+""
